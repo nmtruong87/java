@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <html>
 <body>
-<h2>Hello Truong Tao Lao.....!</h2>
-adsddasa
+<h2>Hello World ABC....!</h2>
 </body>
 </html>
